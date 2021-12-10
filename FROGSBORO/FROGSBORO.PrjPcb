@@ -104,7 +104,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -121,7 +121,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -138,7 +138,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -216,12 +216,29 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document11]
+DocumentPath=FROGSBORO.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=B57242B0-DB3E-49A7-B38F-98F75AB1B3E1
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=11
+VariationCount=13
 Variation1=Designator=R?|UniqueId=\NYXWAKPY|Kind=1|AlternatePart= 
 Variation2=Designator=R?|UniqueId=\FLEIPNBS|Kind=1|AlternatePart= 
 Variation3=Designator=R?|UniqueId=\AFLZBWSS|Kind=1|AlternatePart= 
@@ -233,6 +250,8 @@ Variation8=Designator=C?|UniqueId=\LZBCBBRR|Kind=1|AlternatePart=
 Variation9=Designator=C?|UniqueId=\TOEEZKIW|Kind=1|AlternatePart= 
 Variation10=Designator=R?|UniqueId=\FGAILCDN|Kind=1|AlternatePart= 
 Variation11=Designator=R?|UniqueId=\BYRABONQ|Kind=1|AlternatePart= 
+Variation12=Designator=R?|UniqueId=\PSHOYYHD|Kind=1|AlternatePart= 
+Variation13=Designator=J7|UniqueId=\SRHNNVAY|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -240,7 +259,7 @@ UniqueID=FEB0E66B-45EE-47BA-B2DB-558B4B896A9F
 Description=DDR2
 AllowFabrication=0
 ParameterCount=0
-VariationCount=8
+VariationCount=9
 Variation1=Designator=R?|UniqueId=\NYXWAKPY|Kind=1|AlternatePart= 
 Variation2=Designator=R?|UniqueId=\FLEIPNBS|Kind=1|AlternatePart= 
 Variation3=Designator=R?|UniqueId=\AFLZBWSS|Kind=1|AlternatePart= 
@@ -275,6 +294,7 @@ ParamDesignator12=R4
 ParamVariation13=ParameterName=Value|VariantValue=20 kOhms
 ParamDesignator13=R4
 Variation8=Designator=R?|UniqueId=\PAPBVKNU|Kind=1|AlternatePart= 
+Variation9=Designator=R?|UniqueId=\PFZNTANN|Kind=1|AlternatePart= 
 ParamVariationCount=13
 
 [Configuration1]
@@ -1039,7 +1059,7 @@ Type6=2
 Type7=0
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=2
 Type13=2
@@ -1158,15 +1178,15 @@ Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
-L2=NNWNNNNWWWNWNWNWN
+L2=NNWNNNNWNNNWNWNWN
 L3=NWEENEEEENEWNEEWN
 L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
 L7=NNEWNNWEENNWNENWN
 L8=NWEENEENEEENNEENN
-L9=NWEENEEEENEWNEEWW
-L10=NWNNNNNENNEWNNEWN
+L9=NNEENEEEENEWNEEWW
+L10=NNNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
 L12=WWWWNWWNWWWNWWWNN
 L13=NNNNNNNNNNNWNNNWW
