@@ -1,3 +1,6 @@
-Record=TopLevelDocument|FileName=Power.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Power.SchDoc|FileName=SAM9X60_Core.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Power.SchDoc|FileName=SAM9X60_IO.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=SAM9X60_Core.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=SAM9X60_IO.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=SD.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=USB.SchDoc|SheetNumber=4
