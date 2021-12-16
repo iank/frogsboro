@@ -255,65 +255,14 @@ UniqueID=B57242B0-DB3E-49A7-B38F-98F75AB1B3E1
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=14
-Variation1=Designator=R?|UniqueId=\NYXWAKPY|Kind=1|AlternatePart= 
-Variation2=Designator=R?|UniqueId=\FLEIPNBS|Kind=1|AlternatePart= 
-Variation3=Designator=R?|UniqueId=\AFLZBWSS|Kind=1|AlternatePart= 
-Variation4=Designator=R?|UniqueId=\ZQUOQVNX|Kind=1|AlternatePart= 
-Variation5=Designator=R?|UniqueId=\QUGUTAPL|Kind=1|AlternatePart= 
-Variation6=Designator=R?|UniqueId=\LEFGUNMK|Kind=1|AlternatePart= 
-Variation7=Designator=C?|UniqueId=\TXIQAXAG|Kind=1|AlternatePart= 
-Variation8=Designator=C?|UniqueId=\LZBCBBRR|Kind=1|AlternatePart= 
-Variation9=Designator=C?|UniqueId=\TOEEZKIW|Kind=1|AlternatePart= 
-Variation10=Designator=R?|UniqueId=\FGAILCDN|Kind=1|AlternatePart= 
-Variation11=Designator=R?|UniqueId=\BYRABONQ|Kind=1|AlternatePart= 
-Variation12=Designator=R?|UniqueId=\PSHOYYHD|Kind=1|AlternatePart= 
-Variation13=Designator=J7|UniqueId=\SRHNNVAY|Kind=1|AlternatePart= 
-Variation14=Designator=P?|UniqueId=\RMXNSDGH|Kind=1|AlternatePart= 
+VariationCount=6
+Variation1=Designator=R13|UniqueId=\NYXWAKPY|Kind=1|AlternatePart= 
+Variation2=Designator=R10|UniqueId=\FLEIPNBS|Kind=1|AlternatePart= 
+Variation3=Designator=R27|UniqueId=\AFLZBWSS|Kind=1|AlternatePart= 
+Variation4=Designator=R22|UniqueId=\QUGUTAPL|Kind=1|AlternatePart= 
+Variation5=Designator=R23|UniqueId=\LEFGUNMK|Kind=1|AlternatePart= 
+Variation6=Designator=J7|UniqueId=\RMXNSDGH|Kind=1|AlternatePart= 
 ParamVariationCount=0
-
-[ProjectVariant2]
-UniqueID=FEB0E66B-45EE-47BA-B2DB-558B4B896A9F
-Description=DDR2
-AllowFabrication=0
-ParameterCount=0
-VariationCount=9
-Variation1=Designator=R?|UniqueId=\NYXWAKPY|Kind=1|AlternatePart= 
-Variation2=Designator=R?|UniqueId=\FLEIPNBS|Kind=1|AlternatePart= 
-Variation3=Designator=R?|UniqueId=\AFLZBWSS|Kind=1|AlternatePart= 
-Variation4=Designator=R?|UniqueId=\ZQUOQVNX|Kind=1|AlternatePart= 
-Variation5=Designator=R?|UniqueId=\QUGUTAPL|Kind=1|AlternatePart= 
-Variation6=Designator=R?|UniqueId=\LEFGUNMK|Kind=1|AlternatePart= 
-Variation7=Designator=R4|UniqueId=\VIUAUXHV|Kind=2|AlternatePart==VALUE|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\ian\Desktop\altium-library\Celestial Altium Library - altium_library.DbLib/Resistors - Surface Mount - 0402|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RCS040220K0FKED|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=Celestial Altium Library - altium_library.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - Surface Mount - 0402|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=RES 0402_1005|AltLibLink_IsSameFootprint=True
-ParamVariation1=ParameterName=Comment|VariantValue==VALUE
-ParamDesignator1=R4
-ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator2=R4
-ParamVariation3=ParameterName=Database Table Name|VariantValue=Resistors - Surface Mount - 0402
-ParamDesignator3=R4
-ParamVariation4=ParameterName=Description|VariantValue=RES SMD 20K OHM 1% 1/5W 0402
-ParamDesignator4=R4
-ParamVariation5=ParameterName=Footprint|VariantValue=RES 0402_1005
-ParamDesignator5=R4
-ParamVariation6=ParameterName=Ibis Model|VariantValue= 
-ParamDesignator6=R4
-ParamVariation7=ParameterName=Library Reference|VariantValue=RCS040220K0FKED
-ParamDesignator7=R4
-ParamVariation8=ParameterName=Part Number|VariantValue=RCS040220K0FKED
-ParamDesignator8=R4
-ParamVariation9=ParameterName=PCB3D|VariantValue= 
-ParamDesignator9=R4
-ParamVariation10=ParameterName=Pin Info|VariantValue= 
-ParamDesignator10=R4
-ParamVariation11=ParameterName=Signal Integrity|VariantValue= 
-ParamDesignator11=R4
-ParamVariation12=ParameterName=Simulation|VariantValue= 
-ParamDesignator12=R4
-ParamVariation13=ParameterName=Value|VariantValue=20 kOhms
-ParamDesignator13=R4
-Variation8=Designator=R?|UniqueId=\PAPBVKNU|Kind=1|AlternatePart= 
-Variation9=Designator=R?|UniqueId=\PFZNTANN|Kind=1|AlternatePart= 
-ParamVariationCount=13
 
 [Configuration1]
 Name=Sources
