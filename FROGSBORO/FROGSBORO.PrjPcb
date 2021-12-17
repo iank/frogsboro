@@ -264,6 +264,14 @@ Variation5=Designator=R23|UniqueId=\LEFGUNMK|Kind=1|AlternatePart=
 Variation6=Designator=J7|UniqueId=\RMXNSDGH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for FROGSBORO\BGA Escape Route - FROGSBORO.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for FROGSBORO\Design Rule Check - FROGSBORO.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
