@@ -1335,6 +1335,12 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=VDD1V15|NetColor=$006E6EFF
+Net2=NetName=VDD1V8|NetColor=clYellow
+Net3=NetName=VDD3V3|NetColor=$00FF6EFF
+Net4=NetName=VDD5V|NetColor=$00FFFF6E
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
