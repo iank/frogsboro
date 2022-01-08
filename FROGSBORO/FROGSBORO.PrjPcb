@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for FROGSBORO
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -299,38 +299,34 @@ DocumentPath=Project Outputs for FROGSBORO\FROGSBORO.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for FROGSBORO\FROGSBORO.GM32
-DItemRevisionGUID=
-
-[GeneratedDocument12]
 DocumentPath=Project Outputs for FROGSBORO\FROGSBORO.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for FROGSBORO\FROGSBORO.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for FROGSBORO\FROGSBORO.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for FROGSBORO\FROGSBORO.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for FROGSBORO\FROGSBORO.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for FROGSBORO\FROGSBORO.REP
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for FROGSBORO\FROGSBORO.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for FROGSBORO\FROGSBORO.TXT
 DItemRevisionGUID=
 
@@ -381,7 +377,7 @@ SCH_HasExpandLogicalToPhysicalSheets=0
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for FROGSBORO
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1533,12 +1529,6 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-
-[NetInfos]
-Net1=NetName=VDD1V15|NetColor=$006E6EFF
-Net2=NetName=VDD1V8|NetColor=clYellow
-Net3=NetName=VDD3V3|NetColor=$00FF6EFF
-Net4=NetName=VDD5V|NetColor=$00FFFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
